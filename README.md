@@ -3,11 +3,11 @@ Clone the repo.
 <br/>
 
 ```bash
-git clone https://github.com/kopildas/furniture.git
+git clone https://github.com/kopildas/test02.git
 cd test02
 ```
 
-```bash
+
 
 ###### for runnging the server
 
@@ -23,5 +23,5 @@ javac test02\clien\Client.java
 java test02.clien.Client
 ```
 
-####### now you have to put the server ip addrase
-####### and now you can comunicate to the server
+###### now you have to put the server ip addrase
+###### and now you can comunicate to the server
